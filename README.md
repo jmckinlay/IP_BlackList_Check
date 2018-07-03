@@ -24,4 +24,9 @@ python3.6 -V
 cd /
 mkdir IPCheck
 cd IPCheck
-git clone 
+git clone https://github.com/RoqueNight/IP_BlackList_Check.git
+cd IP_BlackList_Check
+chmod +x neo.py
+./neo.py
+```
+
